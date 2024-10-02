@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "299312987755",
+    "project_id": "dpdrijawabarat-4f669",
+    "storage_bucket": "dpdrijawabarat-4f669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299312987755:android:a4c76a9fd74a91ed4e3b2e",
+        "android_client_info": {
+          "package_name": "com.dpdrijawabarat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299312987755-1epbb1c1jafme2bjvi1hr9nnth7ad8bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dpdrijawabarat",
+            "certificate_hash": "6aa31fb1633ccaea979d8599b86794177d0b87f8"
+          }
+        },
+        {
+          "client_id": "299312987755-oe4uup0pqpf9o69ehemvi0nm7oitliq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeoM78LS_TqK44OGDxUUdoqHnu8uLhiO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299312987755-oe4uup0pqpf9o69ehemvi0nm7oitliq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
